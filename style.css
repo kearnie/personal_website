@@ -48,7 +48,7 @@ h1 {
     text-decoration: none;
     text-align: center;
     vertical-align: middle;
-    line-height: 54px;
+    line-height: 62px;
     border-style: solid;
     padding: 2px;
     margin: 12px;
@@ -78,7 +78,7 @@ h1 {
     text-decoration: none;
     text-align: center;
     vertical-align: middle;
-    line-height: 54px;
+    line-height: 62px;
     border-style: solid;
     padding: 2px;
     margin: 12px;
@@ -108,7 +108,7 @@ h1 {
     text-decoration: none;
     text-align: center;
     vertical-align: middle;
-    line-height: 54px;
+    line-height: 62px;
     border-style: solid;
     padding: 2px;
     margin: 12px;
@@ -138,7 +138,7 @@ h1 {
     text-decoration: none;
     text-align: center;
     vertical-align: middle;
-    line-height: 54px;
+    line-height: 62px;
     padding: 2px;
     margin: 12px;
     color: #39659b;
@@ -194,7 +194,6 @@ h1 {
 
 .homecontent {
     font-size: 16px;
-    /*line-height: 99.5%;*/
 }
 
 a.homelinks {
@@ -331,7 +330,6 @@ a.codelinks:hover {
 
 .codecontent p {
     font-size: 15px;
-    line-height: 95%;
 }
 
 .designcontent h2 {
@@ -360,7 +358,6 @@ a.designlinks:hover {
 
 .designcontent p {
     font-size: 15px;
-    line-height: 95%;
 }
 
 .artscontent h2 {
@@ -389,5 +386,4 @@ a.artslinks:hover {
 
 .artscontent p {
     font-size: 15px;
-    line-height: 95%;
 }
