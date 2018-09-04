@@ -186,14 +186,14 @@ h1 {
     padding-right: 20px;
     display: inline-block;
     margin-left: 138px;
-    width: 325px;
+    width: 360px;
     height: 400px;
     color: #758aa5;
     background-color: rgba(255,255,255,0);
 }
 
 .homecontent {
-    font-size: 16px;
+    font-size: 17px;
 }
 
 a.homelinks {
@@ -214,6 +214,19 @@ a.morelinks {
 
 a.morelinks:hover {
     opacity: 0.5;
+}
+
+.footer {
+    display: flex;
+}
+
+.ext-icons {
+    flex-grow: 1;
+    padding-top: 14px;
+}
+
+.credits-wrapper {
+    flex-grow: 0;
 }
 
 .linkedin a {
@@ -302,7 +315,7 @@ a.morelinks:hover {
 .credits {
     color: #bcc6d1;
     font-size: 13px;
-    float: right;
+    text-align: right;
 }
 
 .codecontent h2 {
